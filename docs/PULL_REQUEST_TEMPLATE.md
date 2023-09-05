@@ -11,14 +11,14 @@
 | Gabriel Blanco(echo) | ???(VZLA) |
 ---
 # Tipo de usuario
-- [ ] Alfa
+- [x] Alfa
 - [ ] Bravo 
 - [ ] Charlie
 - [ ] Delta
 - [ ] Echo
 
 # Seleccione el tipo de actividad
-- [ ] Feature
+- [x] Feature
 - [ ] Hotfix
 - [ ] Refactor
 - [ ] Performance
